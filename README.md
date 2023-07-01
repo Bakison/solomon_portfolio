@@ -3,4 +3,5 @@ Data Science and Machine Learning portfolio and i did an internship at 1stop com
 
 
 #  [project 1 : Bick_Sharing_prediction](https://github.com/Bakison/solomon_portfolio.git)
-# Project 2 : Largest-Banks Correlation Project
+
+#[Project 2 : Largest-Banks Correlation Project](https://github.com/Bakison/solomon_portfolio.git)
